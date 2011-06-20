@@ -1,3 +1,5 @@
+NOTE: This "fork" only includes additional tools that boost your TDD with QUint
+
 [QUnit](http://docs.jquery.com/QUnit) - A JavaScript Unit Testing framework.
 ================================
 
